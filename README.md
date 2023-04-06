@@ -8,3 +8,6 @@
 - Audio player
 - Haptics
 
+![restart1](./images/restart1.gif)
+![restart2](./images/restart2.gif)
+![restart2](./images/restart3.gif)
